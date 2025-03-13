@@ -1,0 +1,19 @@
+# Dataset atau sumber data yang digunakan dalam analisis
+https://www.kaggle.com/
+https://datahub.io/
+
+# Dokumentasi library yang digunakan dalam proyek
+https://pandas.pydata.org/docs/
+https://matplotlib.org/stable/contents.html
+https://seaborn.pydata.org/
+https://scikit-learn.org/stable/
+https://plotly.com/python/
+
+# Panduan pengembangan dashboard dengan Flask / Streamlit / Dash
+https://flask.palletsprojects.com/en/2.3.x/
+https://docs.streamlit.io/
+https://dash.plotly.com/
+
+# API yang mungkin digunakan dalam proyek
+https://api.openweathermap.org/data/2.5/weather
+https://api.exchangerate-api.com/v4/latest/USD
