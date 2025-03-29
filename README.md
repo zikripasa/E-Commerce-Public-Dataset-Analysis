@@ -1,17 +1,21 @@
-# Markdown-Streamlit-
+# Dashboard Analisis Data
 
-# Data Wrangling and Exploratory Data Analysis Dashboard
+Panduan untuk menyiapkan lingkungan dan menjalankan aplikasi dashboard analisis data menggunakan Streamlit.
 
-This project is a Data Wrangling and Exploratory Data Analysis (EDA) dashboard built with Streamlit. It allows users to upload multiple datasets, perform data cleaning, and visualize insights through various plots and charts.
+## Setup Environment - Anaconda
 
-You can install the necessary Python packages by running the following command:
+   conda create --name main-ds python=3.9
+   conda activate main-ds
+   conda activate main-ds
+   
+## Setup Environment - Shell/Terminal
 
-```bash
-pip install streamlit pandas numpy matplotlib seaborn
+  mkdir proyek_analisis_data
+  cd proyek_analisis_data
 
-git clone <repository_url>
+  pipenv install
+  pipenv shell
+  pip install -r requirements.txt
 
-cd <project_directory>
-
-streamlit run dashboard.py
-
+## Menjalankan Aplikasi Streamlit
+  streamlit run dashboard.py
